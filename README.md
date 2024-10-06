@@ -1,7 +1,7 @@
 ﻿# linkedIn-connector-chrome-ext
 This is a chrome extension to send LinkedIn Connection request automatically with just a click.
 > ![Demo Video](/readme-resource/final-edited-lin_conn-ext.mp4)
-> ![HD Demo Video](https://drive.google.com/file/d/1wgS_4OTAX1_4g5ehYPSJLvtK2VzAmQST/view?usp=sharing)
+> ![Youtube Demo Video](https://youtu.be/lpVW5z0hLkE)
 
 ## Features
 - Extension is enabled only when connect buttons are available in a LinkedIn page.
@@ -22,7 +22,6 @@ This is a chrome extension to send LinkedIn Connection request automatically wit
 
 ## Architecture/Design
 ![architecure diagram of extension](/readme-resource/linkedin-conn-ext-architecture.png)
-![architecture diagram drive link](https://drive.google.com/file/d/10NtLo3KBjoKicq7mEN6IAw393SBVIfPB/view?usp=sharing)
 
 ## Work Flow
 1. Service worker

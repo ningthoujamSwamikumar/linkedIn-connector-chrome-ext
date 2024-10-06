@@ -1,0 +1,13 @@
+body {
+    min-width: 100px;
+    text-align: center;
+    background-color: #004182;
+    color: white;
+}
+
+.btn {
+    background-color: #dce6f1;
+    color: #004182;
+    font-weight: 800;
+    font-size: 1rem;
+}

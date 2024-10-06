@@ -2,6 +2,8 @@
 This is a chrome extension to send LinkedIn Connection request automatically with just a click.
 > ![Demo Video](/readme-resource/final-edited-lin_conn-ext.mp4)
 > ![Youtube Demo Video](https://youtu.be/lpVW5z0hLkE)
+> [![alt text](https://img.youtube.com/vi/lpVW5z0hLkE/0.jpg)](https://www.youtube.com/watch?v=lpVW5z0hLkE)
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/lpVW5z0hLkE?si=uOagrNMjsjCgLYVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Features
 - Extension is enabled only when connect buttons are available in a LinkedIn page.

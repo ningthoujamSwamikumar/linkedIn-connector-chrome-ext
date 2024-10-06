@@ -10,8 +10,8 @@ This is a chrome extension to send LinkedIn Connection request automatically wit
 
 ## How to installed and run
 1. Get code from the repository - do one of the following:
->`git clone git@github.com:ningthoujamSwamikumar/linkedIn-connector-chrome-ext.git`
->`git clone https://github.com/ningthoujamSwamikumar/linkedIn-connector-chrome-ext.git`
+```git clone git@github.com:ningthoujamSwamikumar/linkedIn-connector-chrome-ext.git```
+```git clone https://github.com/ningthoujamSwamikumar/linkedIn-connector-chrome-ext.git```
 >Download [zip](https://github.com/ningthoujamSwamikumar/linkedIn-connector-chrome-ext/archive/refs/heads/main.zip). and extract at your prefered location.
 2. Load the extension in Chrome browser:
 - Go to extensions by `chrome://extensions` or through settings.
